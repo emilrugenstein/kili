@@ -1,13 +1,12 @@
 {
-  "name": "long-haul",
+  "name": "kili",
   "version": "0.0.0",
-  "description": "A minimal, type-focused Jekyll theme. ",
+  "description": "Website for charity project.",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Brian Maier Jr.",
-  "license": "MIT",
+  "author": "Emil Rugenstein",
   "devDependencies": {
     "browser-sync": "^2.26.3",
     "gulp": "^4.0.2",
@@ -17,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/brianmaierjr/long-haul.git"
+    "url": "https://github.com/erug-the-creator/kili"
   },
   "keywords": [
     "jekyll",
