@@ -1,7 +1,8 @@
 title: Long Haul
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-url: https://erug-the-creator.github.io/kili/
+url: https://erug-the-creator.github.io
+baseurl: /kili/
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
