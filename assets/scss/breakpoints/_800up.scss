@@ -62,14 +62,19 @@ HEADER STYLING
 	display: flex;
 	flex-direction: column;
 	justify-content: flex-end;
+	
 
 	.container {
 		position: relative;
 		// top: 50%;
 		// transform: translateY(-50%);
-    	max-width: 800px;
 		overflow: hidden;
-		padding-bottom: 2em;
+		padding-bottom: 1em;
+		padding-left: 3em;
+		padding-right: 3em;
+		width: 100%;
+		display: flex;
+		justify-content: center;
 	}
 
 	h1 {
@@ -82,7 +87,9 @@ HEADER STYLING
 	nav {
 		float: left;
 		clear: left;
-
+    	max-width: 880px;
+		display: flex;
+		justify-content: center;
 		ul {
 			margin: 0;
 			li {
@@ -94,7 +101,7 @@ HEADER STYLING
 
 				a {
 					color: white;
-					font-size: .9em;
+					font-size: 1.7rem;
 					text-decoration: none;
 					padding: 0 .25em;
 

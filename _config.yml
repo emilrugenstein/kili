@@ -14,11 +14,15 @@ plugins: [jekyll-paginate]
 paginate: 5
 
 navigation:
-  - title: Home
+  - title: Startseite
     url: /index.html
-  - title: About
+  - title: Blog
+    url: /articles
+  - title: Spenden
+    url: /spenden
+  - title: Mehr
     url: /about
-  - title: Contact
+  - title: Kontakt
     url: /contact
 
 social:
