@@ -59,13 +59,17 @@ HEADER STYLING
 	height: 15em;
 	position: relative;
 	padding-bottom: 2em;
+	display: flex;
+	flex-direction: column;
 
 	.container {
 		position: relative;
-		top: 50%;
-		transform: translateY(-50%);
-    max-width: 800px;
+		// top: 50%;
+		// transform: translateY(-50%);
+    	max-width: 800px;
 		overflow: hidden;
+		align-self: flex-end;
+		padding-bottom: 2em;
 	}
 
 	h1 {
