@@ -61,6 +61,7 @@ HEADER STYLING
 	padding-bottom: 2em;
 	display: flex;
 	flex-direction: column;
+	justify-content: flex-end;
 
 	.container {
 		position: relative;
@@ -68,7 +69,6 @@ HEADER STYLING
 		// transform: translateY(-50%);
     	max-width: 800px;
 		overflow: hidden;
-		align-self: flex-end;
 		padding-bottom: 2em;
 	}
 
