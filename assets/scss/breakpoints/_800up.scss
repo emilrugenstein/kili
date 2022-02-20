@@ -260,8 +260,10 @@ ARTICLES PAGE STYLING
 ***************/
 
 #articles {
-	width: 75%;
-	margin: 0 auto 2rem;
+	.posts{
+		width: 75%;
+		margin: 0 auto 2rem;
+	}
 	h3{
 		margin-bottom: 1.25rem;
 	}
