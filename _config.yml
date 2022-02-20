@@ -17,7 +17,7 @@ navigation:
   - title: Startseite
     url: /index.html
   - title: Blog
-    url: /articles
+    url: /blog-posts
   - title: Spenden
     url: /spenden
   - title: Mehr
