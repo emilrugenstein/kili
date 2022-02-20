@@ -30,7 +30,6 @@ body {
   max-width: 880px;
   margin-left: auto;
   margin-right: auto;
-	padding: 0;
 }
 
 
@@ -253,6 +252,18 @@ CONTACT PAGE STYLING
     width: 48%;
     float: right;
     margin-right: 0;
+	}
+}
+
+/***************
+ARTICLES PAGE STYLING
+***************/
+
+#articles {
+	width: 75%;
+	margin: 0 auto 2rem;
+	h3{
+		margin-bottom: 1.25rem;
 	}
 }
 
