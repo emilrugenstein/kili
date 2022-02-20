@@ -20,6 +20,15 @@ gulp.task('jekyll-build', function (done) {
 });
 
 /**
+ * Build the Jekyll Site including the pages from _drafts
+ */
+ gulp.task('jekyll-build-drafts', function (done) {
+    browserSync.notify(messages.jekyllBuild);
+    return cp.spawn( jekyll , ['build', '--drafts'], {stdio: 'inherit'})
+        .on('close', done);
+});
+
+/**
  * Rebuild Jekyll & do page reload
  */
 gulp.task('jekyll-rebuild', gulp.series('jekyll-build', function (cb) {
@@ -70,3 +79,9 @@ gulp.task('watch', function (cb) {
  * compile the jekyll site, launch BrowserSync & watch files.
  */
 gulp.task('default', gulp.series('browser-sync', 'watch'));
+
+/**
+ * Run `gulp drafts` for a start which also cimpiles/includes the draft pages
+ * Note after a change in a watched file triggers a rebuild the draft pages aren't included anymore
+ */
+gulp.task('drafts', gulp.series('browser-sync', 'jekyll-build-drafts', 'watch'));
