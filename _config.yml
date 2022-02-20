@@ -26,13 +26,13 @@ navigation:
     url: /contact
 
 social:
-  github: brianmaierjr
-  twitter: brianmaierjr
-  facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
-  linkedin: brianmaierjr
+  # github: brianmaierjr
+  # twitter: brianmaierjr
+  # facebook: brianmaierjr
+  email: kili@emilrugenstein.com
+  # linkedin: brianmaierjr
 
-google_analytics: "UA-58263416-1"
+# google_analytics: "UA-58263416-1"
 
 disqus:
-    shortname: brianmaierjr
+    shortname: emilrugenstein
