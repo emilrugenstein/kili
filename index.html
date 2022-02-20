@@ -27,13 +27,22 @@ title: 5895m
         Aber auch dazu erfährst du mehr auf der <a href="/spenden">Spendenseite.</a>
       </p>
       <p>
-        Gerne kannst du dir auch meinen Blog-Posts anschauen. Dort berichte ich von genaueren Details zu der Reise, meinen Vorbereitungen, Gedanken und Trainingswanderungen.
+        Gerne kannst du dir auch meinen Blog-Posts anschauen. Dort berichte ich von genaueren Details der Reise, meinen Vorbereitungen, Trainingswanderungen und Gedanken.
       </p>
       <p>
         <a href="/articles" class="button__outline">Zum Blog</a>
       </p>
+      
     </div>
-  <!-- <div class="posts noList">
+
+    
+  
+
+    <img src="/assets/img/kili-stripe.jpg" alt=""> 
+  <div class="posts noList">
+    <p>
+      <h2>Neueste Beiträge</h2>
+    </p>
     {%- for post in paginator.posts -%}
       <article>
         <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
@@ -41,14 +50,14 @@ title: 5895m
         <p>{%- if post.description -%}{{ post.description }}{%- else -%}{{ post.excerpt | strip_html }}{%- endif -%}</p>
       </article>
     {%- endfor -%}
-  </div> -->
+  </div>
   <!-- Pagination links -->
-  <!-- <div class="pagination">
+  <div class="pagination">
     {%- if paginator.previous_page -%}
       <a href="{{ paginator.previous_page_path }}" class="previous button__outline">Newer Posts</a> 
     {%- endif -%}
     {%- if paginator.next_page -%}
       <a href="{{ paginator.next_page_path }}" class="next button__outline">Older Posts</a>
     {%- endif -%}
-  </div> -->
+  </div>
 </div>
