@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Long Haul
+title: Mehr
 ---
 
 <div class="post">
