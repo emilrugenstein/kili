@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Eine verrückte Idee"
-date:   2022-02-20
+date:   2022-02-24
 image: kili-zebras.jpg
 ---
 
