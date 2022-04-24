@@ -8,7 +8,7 @@ image: kili-zebras
 <!-- <p class="intro"><span class="dropcap">H</span>ier entsteht ein Blog-Post, indem ich schreibe, wie es zu der Idee kam und welche Details zu der Reise schon geplant sind.</p> -->
 <p class="intro"><span class="dropcap">E</span>s war am Silvestermorgen als ich die Nachricht bekam, es sein noch Plätze frei.</p>
 
-Ich hatte meiner Großcousine aus derSchweiz ein frohes neues Jahr gewünscht und gleich gefragt, wie es mit dem Projekt lief, welches mich vor wenigen Monaten schon nur vom Zuhören schon so begeistert hatte: 
+Ich hatte meiner Großcousine aus der Schweiz ein frohes neues Jahr gewünscht und gleich gefragt, wie es mit dem Projekt lief, welches mich vor wenigen Monaten nur vom Zuhören schon so begeistert hatte: 
 
 Auf den Kilimanjaro - den höchsten Berg Afrikas - und dabei Spenden sammeln, vor Ort sogar die Kinderhilfszentren besuchen und das alles schon diesen Sommer.
 
@@ -26,7 +26,7 @@ All das schwirrte mir durch den Kopf und wollte beantwortet werden. Auch beschä
 
 Durch einige gute Gespräche mit tollen Mitmenschen, Stunden des _In-Mich-Gehens_, viel Recherche und wache Ohren für meine innere Stimme, arbeitete ich mich durch den Fragenwald.
 
-Ich entschied, dass das mit meinem Studium schon funktionieren sollte, da ich im Winter für ähnlich schwere Prüfungen auch weniger Zeit zum Lernen hatte. Familie und Bekannte sagten mir zu, dass Sie mich auch finanziell unterstützen würden. Über die Wanderung selbst, ihre Schwierigkeiten und benötigte Ausrüstung erfuhr ich ebenso eine Menge, doch dazu später gerne noch mehr. Bezüglich des Fluges habe ich entschieden, nach dem geplanten Programm noch ein wenig länger zu bleiben und so Tansania und die Menschen frei und ohne festen Plan näher kennenlernen zu können <br>
+Ich entschied, dass das mit meinem Studium schon funktionieren sollte, da ich im Winter für ähnlich schwere Prüfungen auch weniger Zeit zum Lernen hatte. Familie und Bekannte sagten mir zu, dass Sie mich auch finanziell unterstützen würden. Über die Wanderung selbst, ihre Schwierigkeiten und benötigte Ausrüstung erfuhr ich ebenso eine Menge, doch dazu später gerne noch mehr. Bezüglich des Fluges habe ich entschieden, nach dem geplanten Programm noch ein wenig länger zu bleiben und so Tansania und die Menschen frei und ohne festen Plan näher kennenlernen zu können. <br>
 Und auch über die Träger und Bergführer lernte ich, wie die Region von den Bergsteigern profitiert und dass die Menschen durch diese Jobs Ihre Familien ernähren können (gerade für Sie, waren die letzten 2 Jahre mit Corona besonders schwer). Außerdem gibt es große Unterschiede zwischen den einzelnen Trekking-Unternehmen und ich versicherte mich, dass das unsere faire Gehälter und Arbeitsbedingungen sicherstellt.
 
 ### Dem Bauchgefühl folgen
