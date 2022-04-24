@@ -6,9 +6,9 @@ image: kili-zebras.jpg
 ---
 
 <!-- <p class="intro"><span class="dropcap">H</span>ier entsteht ein Blog-Post, indem ich schreibe, wie es zu der Idee kam und welche Details zu der Reise schon geplant sind.</p> -->
-<p class="intro"><span class="dropcap">E</span>s war am Silvestermorgen als ich die Nachricht bekam, es sind noch Plätze frei.</p>
+<p class="intro"><span class="dropcap">E</span>s war am Silvestermorgen als ich die Nachricht bekam, es sein noch Plätze frei.</p>
 
-Ich hatte meine Großcousine ein frohes neues Jahr gewünscht und gleich mit gefragt, wie es mit dem Projekt lief, welches mich vor wenigen Monaten schon nur vom Zuhören schon so begeistert hatte: 
+Ich hatte meiner Großcousine aus derSchweiz ein frohes neues Jahr gewünscht und gleich gefragt, wie es mit dem Projekt lief, welches mich vor wenigen Monaten schon nur vom Zuhören schon so begeistert hatte: 
 
 Auf den Kilimanjaro - den höchsten Berg Afrikas - und dabei Spenden sammeln, vor Ort sogar die Kinderhilfszentren besuchen und das alles schon diesen Sommer.
 
@@ -39,7 +39,7 @@ Spannend ist es doch, wie wir manchmal im Leben uns erst viele Male absichern, n
 Nun war die Entscheidung also getroffen und es heißt: Vorbereiten.
 
 Dass der Kilimanjaro einfach und für jeden machbar ist, kann ich mittlerweile auf jeden Fall verneinen. Es bedarf zwar keiner richtigen Kletterei, allerdings ist die Höhe allein schon ein wirklich ernstzunehmender _Gegner_. <br>
-Ab ca. 2.500m ist der Luftdruck so viel geringer, dass der menschliche Körper Probleme hat, genügend Sauerstoff aufzunehmen. Dies führt zu Schwächeerscheinungen, Kopfschmerzen und Übelkeit, auch bekannt als die berüchtigte Höhenkrankheit. Trifft sie einen sehr, hilft nur noch ein zügiger Abstieg - zu Fuß oder auf der Liege.
+Ab ca. 2.500m beginnt der Luftdruck so viel geringer zu werden, dass der menschliche Körper Probleme bekommt, genügend Sauerstoff aufzunehmen. Dies führt zu Schwächeerscheinungen, Kopfschmerzen und Übelkeit, auch bekannt als die berüchtigte Höhenkrankheit. Trifft sie einen sehr, hilft nur noch ein zügiger Abstieg - zu Fuß oder auf der Liege.
 
 Die Schweiz, in der ich momentan studiere, ist glücklicherweise, eine sehr gute Trainingsumgebung. Man kommt zwar nicht über die 5.000, allerdings gibt es eine Menge 3000er und 4000er Gipfel.
 
@@ -50,7 +50,7 @@ Nun sitze ich wieder im Zug und bin dieses Mal auf dem Weg zu dem ersten Kennler
 Zugegbenermaßen bin ich sehr gespannt wie das wird, auch weil ich mit meinen 19 Jahren wohl mit der Jüngste bin.
 
 So habe ich wiedermal einige Fragen im Kopf. Doch das kann ja auch etwas Schönes sein :) <br>
-Abschließend möchte ich meine Antworten auf die zwei Fragen teilen, welche wir uns vorbereitend für das Treffen stellen sollten.
+Abschließend möchte ich meine Antworten auf die zwei Fragen sichtbar machen, welche wir uns vorbereitend für das Treffen stellen sollten.
 #### Warum mache ich den Muskathlon?
 - träume schon sehr lange von Afrika und dem Kilimanjaro
 - möchte Gutes in der Welt bewirken
