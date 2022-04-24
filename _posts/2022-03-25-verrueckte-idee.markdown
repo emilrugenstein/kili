@@ -2,7 +2,7 @@
 layout: post
 title:  "Eine verrückte Idee"
 date:   2022-03-25
-image: kili-zebras.jpg
+image: kili-zebras
 ---
 
 <!-- <p class="intro"><span class="dropcap">H</span>ier entsteht ein Blog-Post, indem ich schreibe, wie es zu der Idee kam und welche Details zu der Reise schon geplant sind.</p> -->

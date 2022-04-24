@@ -801,7 +801,7 @@ HEADER STYLING
 ***************/
 .header {
   background-color: seagreen;
-  background-image: url("../img/kili-zebras.jpg"); /* added different bg to see if this file is really useless or not */
+  background-image: url("../img/kili-zebras-small.jpg"); /* added different bg to see if this file is really useless or not */
   background-size: cover;
   background-position: center center;
   color: white;

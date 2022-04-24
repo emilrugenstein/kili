@@ -54,3 +54,6 @@ If you'd like your header to be larger then you can use the option below in you 
 - **header:** large
 
 ![preview Long Haul](/preview-large.png)
+
+### Notes 
+Due to a quick workaround featured images should be .jpg and should also have a "[image name]-small.jpg" version. See in "post.html"

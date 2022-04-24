@@ -56,6 +56,7 @@ HEADER STYLING
 
 .header {
 	height: 15em;
+	background-image: url('../img/kilimanjaro.jpg');
 	position: relative;
 	padding-bottom: 2em;
 	display: flex;
@@ -177,6 +178,12 @@ POST STYLING
 	.featuredImage {
 		position: relative;
 		margin-top: 2rem;
+		.featuredImageMobile{
+			display: none;
+		}
+		.featuredImageDesktop{
+			display: inline;
+		}
 
 		&:before {
 			background: white;

@@ -181,7 +181,7 @@ HEADER STYLING
 
 .header {
 	background-color: $background-color;
-	background-image: url('../img/kilimanjaro.jpg');
+	background-image: url('../img/kilimanjaro-small.jpg');
 	background-size: cover;
 	background-position: center center;
 	color: white;
@@ -302,8 +302,16 @@ POST STYLING
 		position: relative;
 		margin-top: 2rem;
 
+		.featuredImageMobile{
+			display: inline;
+		}
+		.featuredImageDesktop{
+			display: none;
+		}
+
 		img {
 			margin-bottom: 0;
+			width: 100%;
 		}
 	}
 }
