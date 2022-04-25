@@ -6,7 +6,7 @@ image: kili-zebras
 ---
 
 <!-- <p class="intro"><span class="dropcap">H</span>ier entsteht ein Blog-Post, indem ich schreibe, wie es zu der Idee kam und welche Details zu der Reise schon geplant sind.</p> -->
-<p class="intro"><span class="dropcap">E</span>s war am Silvestermorgen als ich die Nachricht bekam, es sein noch Plätze frei.</p>
+<p class="intro"><span class="dropcap">E</span>s war am Silvestermorgen als ich die Nachricht bekam, es sind noch Plätze frei.</p>
 
 Ich hatte meiner Großcousine aus der Schweiz ein frohes neues Jahr gewünscht und gleich gefragt, wie es mit dem Projekt lief, welches mich vor wenigen Monaten nur vom Zuhören schon so begeistert hatte: 
 
