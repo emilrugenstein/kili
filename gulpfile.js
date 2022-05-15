@@ -81,7 +81,7 @@ gulp.task('watch', function (cb) {
 gulp.task('default', gulp.series('browser-sync', 'watch'));
 
 /**
- * Run `gulp drafts` for a start which also cimpiles/includes the draft pages
+ * Run `gulp drafts` for a start which also compiles/includes the draft pages
  * Note after a change in a watched file triggers a rebuild the draft pages aren't included anymore
  */
 gulp.task('drafts', gulp.series('browser-sync', 'jekyll-build-drafts', 'watch'));
