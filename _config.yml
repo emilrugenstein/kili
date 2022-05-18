@@ -15,7 +15,7 @@ paginate: 3
 
 navigation:
   - title: Startseite
-    url: /index.html
+    url: /
   - title: Blog
     url: /blog-posts
   - title: Spenden
