@@ -107,7 +107,7 @@ Mein Tagebucheintrag für diesen Tag fällt sehr kurz aus. Heute steigen wir auf
     <img src="/assets/img/kilimanjaro/05-group-kili.jpg" alt=""> 
 	<figcaption>Wir rücken dem Gipfel näher, doch er scheint immer noch so fern</figcaption>
 </figure>
-Zum späten Mittag kommen wir im Camp an und danach gehe ich sofort schlafen. Die Höhe macht mir zu schaffen. Abends gibt es die wie immer eine Teambesprechung, welche heute länger ausfällt. Die Guides erklären uns den genauen Plan für morgen. <br>
+Zum späten Mittag kommen wir im Camp an und danach gehe ich sofort schlafen. Die Höhe macht mir zu schaffen. Abends gibt es dann wie immer eine Teambesprechung, welche heute länger ausfällt. Die Guides erklären uns den genauen Plan für morgen. <br>
 Wir haben jetzt noch circa drei Stunden bis wir um 23:00 Uhr wieder aufwachen müssen. Ob ich vor Aufregung schlafen werde, weiß ich nicht.
 
 ### Tag 6 - Der Gipfel
@@ -139,13 +139,13 @@ Auf dieser Spitze sitze ich nun, dem Himmel noch nie so nah gewesen, die gerade 
 
 <figure>
     <img src="/assets/img/kilimanjaro/06-sunrise.jpg" alt=""> 
-	<figcaption>Nun weicht die Dunkelheit, für einen zauberhaften Blick über den rießigen Krater</figcaption>
+	<figcaption>Nun weicht die Dunkelheit, für einen zauberhaften Blick über den riesigen Krater</figcaption>
 </figure>
 <figure>
     <img src="/assets/img/kilimanjaro/06-glacier.jpg" alt=""> 
 	<figcaption>Von hier oben kann man sogar die verbleibenden Gletscherreste bestaunen</figcaption>
 </figure>
-Es ist ein sehr langer kurzer Moment, den ich hier verbringen darf, bevor ich mit einem erneuten Spuckanfall ein Andenken auf dem Gipfel dalasse.
+Es ist ein sehr langer kurzer Moment, den ich hier verbringen darf, bevor ich dann mit einem erneuten Spuckanfall auch ein Andenken auf dem Gipfel dalasse.
 
 <figure>
     <img src="/assets/img/kilimanjaro/06-group-summit.jpg" alt=""> 
@@ -173,9 +173,9 @@ Die Nacht auf (für uns nun) normaler Höhe hat für uns alle Wunder gewirkt und
 </figure>
 Ich lasse meine Gedanken schweifen, kann es noch immer nicht ganz fassen es wirklich geschafft zu haben, bin dankbar für das gesamte Team - Guides, Porter, Köche, Gruppenmitglieder.
 
-Der Berg hat mir auch geholfen, Klarheit in einigen großen Fragen zu finden, die ich mitnahm. In unserer Gesellschaft Raum und Zeit für tiefgründige Fragen zu finden ist schwierig. Über 6.000 Kilimeter weit weg auf einen 5.895 Meter hohen Berg zu wandern, hilft aber auf jeden Fall ;)
+Der Berg hat mir auch geholfen, Klarheit in einigen großen Fragen zu finden, die ich mitnahm. In unserer Gesellschaft Raum und Zeit für tiefgründige Fragen zu finden ist schwierig. Über 6.000 Kilometer weit weg auf einen 5.895 Meter hohen Berg zu wandern, hilft aber auf jeden Fall ;)
 
-Abschließend möchte ich noch einmal an die Kinder und Mütter in matrieller Armut erinnern. Mit kleinen Spenden können wir schon großer Bewegen. [Hier](/spenden/) geht es zur Spendenseite und teile doch bitte unsere Geschichte mit Freunden, Familie und Bekannten. 
+Abschließend möchte ich noch einmal an die Kinder und Mütter in materieller Armut erinnern. Mit kleinen Spenden können wir schon Großes bewegen. [Hier](/spenden/) geht es zur Spendenseite und teile doch bitte unsere Geschichte mit Freunden, Familie und Bekannten. 
 
 Vielen Dank!
 
