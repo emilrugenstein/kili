@@ -10,7 +10,7 @@ image: kilimanjaro/kili-air.jpeg
 
 Ich kann es kaum fassen, dass ich mit meinen eigenen Beinen diesen großartigen Berg erklommen habe. 
 
-Und nun sitze ich wieder im Flugzeug auf dem zurück nach Deutschland. Drei Mal schon habe ich mich auf Swahili mit _Asante_ bedankt und von den ethiopischen Stewardessen nur verwunderte Blicke geerntet. Es sind Kleinigkeiten wie diese, welche zum Ausdruck bringen, wie sehr ich in Tansania angekommen bin - die Landschaft, die Menschen, die Sprache in mein Herz geschlossen habe.
+Und nun sitze ich wieder im Flugzeug auf dem Weg zurück nach Deutschland. Drei Mal schon habe ich mich auf Swahili mit _Asante_ bedankt und von den ethiopischen Stewardessen nur verwunderte Blicke geerntet. Es sind Kleinigkeiten wie diese, welche zum Ausdruck bringen, wie sehr ich in Tansania angekommen bin - die Landschaft, die Menschen, die Sprache in mein Herz geschlossen habe.
 
 Wirklich viel ist passiert seitdem ich vor 22 Nächten am Kilimanjaro Airport das erste Mal afrikanischen Boden betreten habe. <br>
 Dass Compassion den Kindern vor Ort wirklich wertvolle Unterstützung liefert, kann ich nun mit Sicherheit sagen. Ich möchte daher all den bisherigen Spendern noch einmal herzlich danken und weiterhin zum Spenden aufrufen. Für ca. 2 Wochen werden die Spenden sogar noch dem Spendenbarometer angerechnet. <br>
