@@ -157,7 +157,7 @@ Die Guides entscheiden, dass ich keinen Sauerstoff brauche, aber möglichst schn
 
 Durch Erschöpfung, die dünne Luft und Müdigeit wird mir der Weg runter später wie im Traum vorkommen. Zurück im Kosovo-Camp lasse ich mich dann nur noch völlig k.o. aber glücklich ins Bett fallen.
 
-Nach zwei Stunden gibt es allerdings schon wieder Mittag, bei dem ich schöner Weise schon wieder erste Bissen runterbekomme. Danach geht es nun weitere 1.700 Meter herab zum Mwemka-Camp. 
+Nach zwei Stunden gibt es allerdings schon wieder Mittag, bei dem ich schöner Weise schon wieder erste Bissen runterbekomme. Danach geht es nun weitere 1.700 Meter herab zum Mweka-Camp. 
 
 <figure>
     <img src="/assets/img/kilimanjaro/06-group-descent.jpg" alt=""> 
