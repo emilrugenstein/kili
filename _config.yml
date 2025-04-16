@@ -1,7 +1,7 @@
 title: Kilimandscharo
 description: Auf den Kilimandscharo für einen guten Zweck
 
-url: http://5895m.de
+url: https://emilrugenstein.github.io/kili
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
