@@ -19,19 +19,19 @@ title: 5895m
         Dafür hat jeder von uns sich das Ziel gesetzt, <b>10.000 €/CHF an Spenden zu sammeln.</b> 
       </p>
       <p>
-        <a href="/spenden" class="button__outline">Zur Spendenseite</a>
+        <a href="{{ site.baseurl }}/spenden" class="button__outline">Zur Spendenseite</a>
       </p>
       <p>
         In verschiedenen Kinderzentren in Tansania werden wir Projekte und Menschen kennenlernen und 
         <b>sehen, was mit den Spenden tatsächlich bewirkt wird.</b> 
         Ich freue mich schon, darüber dann berichten zu können. Auch ist es möglich ein Kind direkt mit einer Patenschaft zu unterstützen. 
-        Aber auch dazu erfährst du mehr auf der <a href="/spenden">Spendenseite.</a>
+        Aber auch dazu erfährst du mehr auf der <a href="{{ site.baseurl }}/spenden">Spendenseite.</a>
       </p>
       <p>
         Gerne kannst du dir auch meine Blog-Beiträge anschauen. Dort berichte ich von genaueren Details der Reise, meinen Vorbereitungen, Trainingswanderungen und Gedanken.
       </p>
       <p>
-        <a href="/blog-posts" class="button__outline">Zum Blog</a>
+        <a href="{{ site.baseurl }}/blog-posts" class="button__outline">Zum Blog</a>
       </p>
       
     </div>
@@ -39,7 +39,7 @@ title: 5895m
     
   
 
-    <img src="/assets/img/kili-stripe.jpg" alt=""> 
+    <img src="{{ site.baseurl }}/assets/img/kili-stripe.jpg" alt=""> 
   <div class="posts noList">
     <p>
       <h2>Neueste Beiträge</h2>
@@ -47,7 +47,7 @@ title: 5895m
     {%- for post in paginator.posts -%}
       <article>
         <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
-        <h3><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></h3>
+        <h3><a class="post-link" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
         <p>{%- if post.description -%}{{ post.description }}{%- else -%}{{ post.excerpt | strip_html }}{%- endif -%}</p>
       </article>
     {%- endfor -%}

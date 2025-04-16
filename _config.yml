@@ -1,7 +1,8 @@
 title: Kilimandscharo
 description: Auf den Kilimandscharo für einen guten Zweck
 
-url: https://emilrugenstein.github.io/kili
+url: https://emilrugenstein.github.io
+baseurl: /kili
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
