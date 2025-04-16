@@ -38,7 +38,7 @@ Durch wirklich glückliche Umstände lernte ich eine Familie kennen, die mich be
 So nutzte ich die Chance und lernte Arusha als Stadt ein bisschen besser kennen.
 
 <figure>
-    <img src="/assets/img/tanzania/arusha.jpg" alt=""> 
+    <img src="{{ site.baseurl }}/assets/img/tanzania/arusha.jpg" alt=""> 
 	<figcaption>Arusha in der Abenddämerung mit Mount Meru (nicht Kilimanjaro;) im Hintergrund </figcaption>
 </figure>
 <figure>
@@ -49,21 +49,21 @@ So nutzte ich die Chance und lernte Arusha als Stadt ein bisschen besser kennen.
 	<figcaption>Bunte Märkte auf der einen Seite und Müll in den Flüssen auf der anderen </figcaption>
 </figure>
 <figure>
-    <img src="/assets/img/tanzania/strasse.jpg" alt=""> 
+    <img src="{{ site.baseurl }}/assets/img/tanzania/strasse.jpg" alt=""> 
 	<figcaption>Die klassischen Motorräder und Dreiräder, die überall auf den Straßen zu finden und beliebte Mitfahrgelegenheit/Taxi sind </figcaption>
 </figure>
 <figure>
-    <img src="/assets/img/tanzania/pepsi-polizei.jpg" alt=""> 
+    <img src="{{ site.baseurl }}/assets/img/tanzania/pepsi-polizei.jpg" alt=""> 
 	<figcaption>Und leider bin ich mir bis heute nicht sicher, ob wirklich nur das Schild der Polizei von Pepsi gesponsert ist</figcaption>
 </figure>
 
 ## Mein Alltag - Vormittags
  begann meist mit einem Gang zur Chapati-Mama, bei der Kelvin und ich uns Chapati kauften (bisschen wie Eierkuchen ohne Ei und meiner Meinung nach sehr lecker:)
 <figure>
-    <img src="/assets/img/tanzania/chabati-mama.jpg" alt="">
+    <img src="{{ site.baseurl }}/assets/img/tanzania/chabati-mama.jpg" alt="">
 </figure>
 <figure>
-    <img src="/assets/img/tanzania/spielen.jpg" alt=""> 
+    <img src="{{ site.baseurl }}/assets/img/tanzania/spielen.jpg" alt=""> 
 	<figcaption>Danach spielte ich meist mit den Kindern in der Tagesstätte</figcaption>
 </figure>
 Gegründet wurde die Kita von Mwamvita, der Frau die mich mit ihrer Familie bei sich aufnahm, um finanziell armen Müttern zu ermöglichen, weiterhin zu arbeiten.
@@ -71,7 +71,7 @@ Gegründet wurde die Kita von Mwamvita, der Frau die mich mit ihrer Familie bei 
 Die Mitarbeiter vor Ort (Mwamvitas ältere Tocher und zwei andere Frauen) waren schon so ein eingespieltes Team, dass ich gar nicht groß helfen konnte und dafür mein Bestes als Riesen-Spielzeug für die Kids versuchen sollte und durfte.
 
 <figure>
-    <img src="/assets/img/tanzania/schaukel.jpg" alt=""> 
+    <img src="{{ site.baseurl }}/assets/img/tanzania/schaukel.jpg" alt=""> 
 	<figcaption>Manchmal braucht es nur eine Schaukel, um alle glücklich zu machen</figcaption>
 </figure>
 
@@ -79,12 +79,12 @@ Die Mitarbeiter vor Ort (Mwamvitas ältere Tocher und zwei andere Frauen) waren 
 Nachdem alle Kids mit Mitagessen versorgt und danach Schlafen gelegt wurden, zogen Kelvin und ich meist los in die Stadt, zu verschiedenen Schulen oder auch in die Natur.
 
 <figure>
-    <img src="/assets/img/tanzania/fussball.jpg" alt=""> 
+    <img src="{{ site.baseurl }}/assets/img/tanzania/fussball.jpg" alt=""> 
 	<figcaption>Kelvin und ich bei einem nationalen Finale (in einem Stadion, das Kreisliga-Größe aber ein fantastisches Spiel mit überfüllten Rängen hatte)</figcaption>
 </figure>
 
 <figure>
-    <img src="/assets/img/tanzania/tänzer.jpg" alt=""> 
+    <img src="{{ site.baseurl }}/assets/img/tanzania/tänzer.jpg" alt=""> 
 	<figcaption>Ein anderes Mal durften wir Volkstänze auf einem Markt bestaunen und danach sogar ein gemeinsames Foto machen</figcaption>
 </figure>
 Mir hat mal jemand gesagt:
@@ -96,11 +96,11 @@ Auf meiner Reise durfte ich das an vielen Stellen erfahren und sogar an zwei gan
 Die Affenbrotbäume mit ihren jahrhundertealten Stämmen haben mich sofort in ihren Zauber gezogen, als ich sie das erste Mal von Weitem sah. Dass sich kurz vor meiner Abreise bei einem Trip in das Umland, dann tatsächlich die Möglichkeit bot, einen Affenbrotbaum in Ruhe zu bestaunen und sogar zu beklettern, war ein glücklicher Zufall, da sie nicht überall zu finden sind.
 
 <figure>
-    <img src="/assets/img/tanzania/baobab.jpg" alt=""> 
+    <img src="{{ site.baseurl }}/assets/img/tanzania/baobab.jpg" alt=""> 
 	<figcaption>Wenn auch hier leicht verschwommenen, der Wuchs und die Krone faszinieren mich</figcaption>
 </figure>
 <figure>
-    <img src="/assets/img/tanzania/masaai-kili.jpg" alt=""> 
+    <img src="{{ site.baseurl }}/assets/img/tanzania/masaai-kili.jpg" alt=""> 
 	<figcaption>Auch bot sich uns bei dem Ausflug dieser fantastische Aus- bzw. Rückblick auf den Kilimanjaro</figcaption>
 </figure>
 Noch viel dankbarer bin ich allerdings für die zweite Möglichkeit, die ich mir nur im Stillen erhofft hatte.
@@ -110,7 +110,7 @@ Denn ich weiß auch nicht, wie ich solch ein Glück haben konnte, aber Mwamvita 
 Und so kam es, dass sie mich und Kelvin begeistert zu verschiedensten Schulen schickte, wo wir den Kindern eine willkommene Abwechslung zum sonst doch sehr trockenem Schulalltag bieten konnten.
 
 <figure>
-    <img src="/assets/img/tanzania/zusammen.jpg" alt=""> 
+    <img src="{{ site.baseurl }}/assets/img/tanzania/zusammen.jpg" alt=""> 
 	<figcaption>Übersetzung: "Zusammen können wir unsere Mission erfüllen [Kindern Momente der Freude, Hoffnung & Lebendigkeit durch Sport zu ermöglichen]. Vielen Dank [an alle Beteiligten]"  </figcaption>
 </figure>
 

@@ -27,7 +27,7 @@ Nachdem wir Samstagabend guter Weise schon gegen 22 Uhr zur Ruhe kamen, hieß es
 Unser Ziel war der sagenumwobene Gipfel "Vrenelisgärtli", der mit 2904m eine ordentliche Tour bedeutet. Es gab allerdings schon zum Start einige Vorbehalte, da das Wetter nicht so gut werden sollte und es eine Gratüberquerung gibt, die bei dem aktuellen Schnee schwierig ist. Und so kam es dann auch, dass wir unsere Tour "nur" bis zum _Schwander Grat_ gemacht haben. Doch auch diese Tour geht schon über 1800 Höhenmeter hoch und genauso viel herab - was sich als fordernd genug erweisen sollte.
 
 <figure>
-  <img src="/assets/img/vrenelisgaertli/tour.jpg" alt=""> 
+  <img src="{{ site.baseurl }}/assets/img/vrenelisgaertli/tour.jpg" alt=""> 
 </figure>
 Das Schöne ist, wenn man den Tag so früh startet, dass man um 8 Uhr bereits 1000 hm geschafft haben kann und so konnten wir einen tollen Blick genießen, während wir bei der Glärnischhütte rasteten. Doch der Grund für unseren frühen Aufbruch lag noch vor uns...
 
@@ -35,7 +35,7 @@ Das Schöne ist, wenn man den Tag so früh startet, dass man um 8 Uhr bereits 10
 Und deshalb hieß es nun bald, für eine recht steile Passage, Steigeisen anziehen. Für mich war es tatsächlich das erste Mal, alpin auf diese Weise unterwegs zu sein. Die Idee ist jedoch relativ simple: Man befestigt extra _Metallstachel_ unter dem Schuh und nutzt dann (möglichst großflächig) den so entstehenden Halt. 
 
 <figure>
-    <img src="/assets/img/vrenelisgaertli/gruppe-steigend.jpg" alt=""> 
+    <img src="{{ site.baseurl }}/assets/img/vrenelisgaertli/gruppe-steigend.jpg" alt=""> 
 	<figcaption>Die Gruppe mit Steigeisen und Pickeln unterwegs (allerdings noch nicht ins Seil gebunden)  </figcaption>
 </figure>
 
@@ -49,13 +49,13 @@ Ich wechselte daher in ein gut bewährtes Mindset und konzentrierte mich nur auf
 
 > Dabei beeindruckt mich immer wieder, wie weit man kommen kann, obgleich man nur immer **noch einen Schritt** gemacht hat. 
 
-<img src="/assets/img/vrenelisgaertli/nebel.jpg" alt=""> 
+<img src="{{ site.baseurl }}/assets/img/vrenelisgaertli/nebel.jpg" alt=""> 
 
 ### Am (halben) Ziel
 Irgendwann war es dann so weit und die nächste Schneewehe, war die Letzte, welche den Schwander Grat verdeckte. Und auch wenn es zu Recht heißt, dass der Berg erst bestiegen ist, wenn man wieder unten ist, genoßen wir unseren Gipfel sehr. Mittlerweile war es wohl 12:30 Uhr und so freute sich auch mein Magen sehr über die Pause und das Mittagessen. <br>
 Selbst der Blick rüber zum Vrenelisgärtli, verursachte kein Bedauern, sondern nur Freude über den schönen Anblick.
 
-<img src="/assets/img/vrenelisgaertli/schwander-grat.jpg" alt=""> 
+<img src="{{ site.baseurl }}/assets/img/vrenelisgaertli/schwander-grat.jpg" alt=""> 
 
 ### Geschenke und Beschwerden auf dem Weg herab
 Gut gestärkt machten wir uns also nun wieder auf, um nicht zu spät wieder unten zu sein. <br>

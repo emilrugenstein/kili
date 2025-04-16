@@ -14,7 +14,7 @@ Nie vergessen werde ich zum Beispiel, wie mich ein älteres Ehepaar, welches ich
 Am Himmelfahrtswochenende hieß es dann für mich und zwei Studiumsfreunde, wieder ab in die Berge. Mit unserem (liebevoll Mona getauften) Mini fuhren wir Richtung italienische Grenze, wanderten und übernachteten mit Zelt in den Bergen. 
 
 <figure>
-    <img src="/assets/img/reisestart/wildcampen.jpeg" alt=""> 
+    <img src="{{ site.baseurl }}/assets/img/reisestart/wildcampen.jpeg" alt=""> 
 	<figcaption> Wildcampen beim legendären Gotthard Pass auf ~2300m</figcaption>
 </figure>
 
