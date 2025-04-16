@@ -3,8 +3,8 @@ description: Auf den Kilimandscharo für einen guten Zweck
 
 url: https://emilrugenstein.github.io
 baseurl: /kili
-paginate_path: "kili/blog/page:num/"
-permalink: "kili/blog/:title/"
+paginate_path: /blog/page:num/
+permalink: /blog/:title/
 
 # Header Option
 # header: large
