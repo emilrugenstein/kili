@@ -19,7 +19,7 @@ Doch zu der Arbeit von Compassion und meinen Erlebnissen mit den Kindern später
 ### Die Route
 Bis auf dass wir in der Nacht vor dem Gipfel noch ein wenig höher im sogenannten Kosovo-Camp geschlafen haben, sind wir der Machame-Route gefolgt.
 
-<img style="width:100%" src="/assets/img/kilimanjaro/machame-route.jpg" alt=""> 
+<img style="width:100%" src="{{ site.baseurl }}/assets/img/kilimanjaro/machame-route.jpg" alt=""> 
 Mit fünf Camps bzw. Übernachtungen vor dem Gipfeltag und einer danach, hat man genug Zeit, sich an die Höhe und den wenigen Sauerstoff (einigermaßen) ausreichend zu gewöhnen. Die Route ist daher eine der Beliebtesten und beeindruckt vor allem auch mit sehr diverser Landschaft. Während unseres Aufstiegs haben wir so ganze fünf verschiedene Vegetationszonen durchwandert.
 
 ### Tag 1 - Regenwald und Euphorie
