@@ -16,15 +16,15 @@ paginate: 3
 
 navigation:
   - title: Startseite
-    url: kili/
+    url: /kili/
   - title: Blog
-    url: kili/blog-posts
+    url: /kili/blog-posts
   - title: Spenden
-    url: kili/spenden
+    url: /kili/spenden
   - title: Mehr
-    url: kili/blog/verrueckte-idee/
+    url: /kili/blog/verrueckte-idee/
   - title: Kontakt
-    url: kili/contact
+    url: /kili/contact
 
 social:
   # github: brianmaierjr
