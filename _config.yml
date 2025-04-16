@@ -3,8 +3,8 @@ description: Auf den Kilimandscharo für einen guten Zweck
 
 url: https://emilrugenstein.github.io
 baseurl: /kili
-paginate_path: "{{ site.baseurl }}/blog/page:num/"
-permalink: "{{ site.baseurl }}/blog/:title/"
+paginate_path: "kili/blog/page:num/"
+permalink: "kili/blog/:title/"
 
 # Header Option
 # header: large
@@ -16,15 +16,15 @@ paginate: 3
 
 navigation:
   - title: Startseite
-    url: "{{ site.baseurl }}/"
+    url: "kili/"
   - title: Blog
-    url: "{{ site.baseurl }}/blog-posts"
+    url: "kili/blog-posts"
   - title: Spenden
-    url: "{{ site.baseurl }}/spenden"
+    url: "kili/spenden"
   - title: Mehr
-    url: "{{ site.baseurl }}/blog/verrueckte-idee/"
+    url: "kili/blog/verrueckte-idee/"
   - title: Kontakt
-    url: "{{ site.baseurl }}/contact"
+    url: "kili/contact"
 
 social:
   # github: brianmaierjr
